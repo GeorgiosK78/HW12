@@ -1,0 +1,5 @@
+package datamodel.illl;
+@Entity
+public class Book {
+
+}

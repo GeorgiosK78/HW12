@@ -1,0 +1,147 @@
+2023-01-12 23:06:47,715 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-12 23:08:07,687 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.uni.koeln.se:bookstore:0.0.1-SNAPSHOT @ C:\Users\Asus\eclipse hw12 2.0\bookstore\pom.xml.
+2023-01-12 23:08:08,941 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore/src/main/java
+2023-01-12 23:08:08,942 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore/src/main/resources
+2023-01-12 23:08:08,949 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore/src/main/resources
+2023-01-12 23:08:08,956 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore/src/test/java
+2023-01-12 23:08:10,812 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-12 23:57:40,045 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-12 23:57:48,222 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-01-12 23:57:52,748 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [738])
+2023-01-12 23:57:52,752 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-01-12 23:57:52,752 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-01-12 23:57:52,753 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-01-12 23:57:52,753 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-01-12 23:57:52,754 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-01-12 23:57:52,754 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-01-12 23:57:52,754 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-01-12 23:57:52,755 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-01-12 23:57:52,755 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-01-12 23:57:52,755 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-01-12 23:57:52,755 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-01-12 23:57:52,755 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-01-12 23:57:52,756 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-01-12 23:57:52,756 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-01-12 23:57:52,756 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-01-12 23:57:52,757 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-01-12 23:57:52,757 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-01-12 23:57:52,757 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-01-12 23:57:52,757 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-01-12 23:57:52,757 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-01-12 23:57:52,758 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-01-12 23:57:52,758 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-01-12 23:57:52,758 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-01-12 23:57:52,758 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-01-12 23:57:52,758 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-01-12 23:57:52,759 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-01-12 23:57:52,759 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-01-12 23:57:52,759 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-01-12 23:57:52,759 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-01-12 23:57:52,759 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-01-12 23:57:52,761 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-01-12 23:57:52,761 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-01-12 23:57:52,761 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-01-12 23:57:52,761 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-01-12 23:57:52,761 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-01-12 23:57:52,761 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-01-12 23:57:52,762 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-01-12 23:57:52,762 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-01-12 23:57:52,762 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-01-12 23:57:52,763 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [491])
+2023-01-12 23:57:52,765 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-01-12 23:57:52,765 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [896])
+2023-01-12 23:57:52,766 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-01-12 23:57:52,766 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [497])
+2023-01-12 23:57:52,767 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-01-12 23:57:52,767 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [496])
+2023-01-12 23:57:52,770 [Worker-31: Launching bookstore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Asus\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-01-12 23:57:52,774 [Worker-31: Launching bookstore] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Asus\eclipse hw12 2.0\bookstore":
+2023-01-12 23:57:52,775 [Worker-31: Launching bookstore] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2023-01-13 18:06:26,334 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-13 18:13:21,463 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:13:21,479 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:13:21,486 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:15:19,269 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:15:19,277 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:15:19,282 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:18:39,038 [Worker-20: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:18:39,046 [Worker-20: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:18:39,050 [Worker-20: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:18:45,437 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:18:45,444 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:18:45,449 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:24:40,269 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:24:40,275 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:24:40,279 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:26:10,852 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:26:10,857 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:26:10,860 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:26:24,647 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:26:24,655 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:26:24,659 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:26:50,941 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:26:50,971 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:26:50,984 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:31:14,492 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:31:14,498 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:31:14,501 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:40:47,182 [Worker-23: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:40:47,195 [Worker-23: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:40:47,198 [Worker-23: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:52:07,463 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:52:07,469 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:52:07,473 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:52:46,791 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:52:46,803 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:52:46,809 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:54:26,704 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:54:26,713 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:54:26,716 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:55:14,873 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:55:14,878 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:55:14,882 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:55:32,657 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:55:32,665 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:55:32,668 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 18:58:16,677 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 18:58:16,682 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 18:58:16,687 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:08:45,113 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:08:45,120 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:08:45,123 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:14:56,186 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:14:56,199 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:14:56,203 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:15:16,069 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:15:16,081 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:15:16,084 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:15:27,462 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:15:27,467 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:15:27,469 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:15:50,465 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:15:50,474 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:15:50,478 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:18:00,509 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:18:00,524 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:18:00,528 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:26:30,092 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:26:30,099 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:26:30,102 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 19:35:33,849 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 19:35:33,855 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 19:35:33,857 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 20:05:46,373 [Worker-52: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 20:05:46,389 [Worker-52: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 20:05:46,394 [Worker-52: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 20:38:15,813 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 20:38:15,823 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 20:38:15,826 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 20:41:32,330 [Worker-57: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 20:41:32,335 [Worker-57: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 20:41:32,338 [Worker-57: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 20:45:27,343 [Worker-60: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 20:45:27,351 [Worker-60: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 20:45:27,355 [Worker-60: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources
+2023-01-13 20:45:49,713 [Worker-63: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 20:45:49,733 [Worker-63: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 20:45:49,737 [Worker-63: Launching bookstore - BookstoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Asus\eclipse hw12 2.0\bookstore\src\test\resources

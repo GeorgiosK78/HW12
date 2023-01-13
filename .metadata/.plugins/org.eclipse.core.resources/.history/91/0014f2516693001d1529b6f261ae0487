@@ -1,0 +1,5 @@
+package datamodel;
+@Entity
+public class Book {
+
+}
